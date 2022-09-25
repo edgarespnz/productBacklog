@@ -1,0 +1,21 @@
+.btn{
+    color:white;
+    font-weight: 500;
+    border: none;
+    width: 200px;
+    margin-right: 15px;
+    background-color: rgb(212, 114, 224);
+}
+
+.container-title{
+    color:white;
+}
+
+.container-subtitle{
+    color:white;
+    margin-bottom: 50px;
+}
+
+.container-mockup-3{
+    padding: 5%;
+}

@@ -1,0 +1,38 @@
+.inside-text{
+    margin-bottom: 25px;
+    color:white;
+}
+.text-uppercase{
+    color:white;
+}
+
+.text-white{
+    text-decoration: none;
+}
+
+.col-5{
+    display:flex;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+.col-4{
+    display:flex;
+    justify-content: space-between;
+}
+
+.list-unstyled{
+    line-height: 55px;
+}
+
+.container-footer{
+    position: fixed;
+    bottom: 0px;
+    height: 35%;
+    width: 100%;
+
+    
+    background-image: url(https://fly-lite.com/images/footer-mountains.png);
+    background-size: 100% 100%;
+
+}
